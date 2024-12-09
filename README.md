@@ -40,27 +40,38 @@ bash
 Copy code
 python pune_analysis.py
 3.	Explore the visualizations and insights generated during the analysis.
+
+4.	
 Results
 •	Top-rated Restaurants:
+
 o	Bangalore: Windmills Craftworks, CTR Shri Sagar, Brahmin's Coffee Bar, and more.
 o	Pune: Le Plaisir, Gong, The French Window Patisserie, etc.
 •	Popular Localities:
 o	Bangalore: BTM, Indiranagar, Whitefield.
 o	Pune: Kothrud, Wakad, Viman Nagar.
+
 •	Cuisine Insights:
 o	Most popular cuisines and their average pricing for two people in both cities.
+
 •	Statistical Findings:
 o	Minimal differences between Asian and Italian cuisine ratings in Bangalore and Pune.
 o	Positive correlation between pricing and dining ratings in Pune.
+
 Technologies Used
 •	Languages: Python
+
 •	Libraries:
 o	Data Manipulation: pandas
 o	Visualization: matplotlib
 o	Statistical Analysis: scipy, statsmodels
 o	Clustering: scikit-learn
+
+
 Contributions
 Contributions are welcome! Feel free to fork the repository and submit a pull request.
+
+
 Author
 Pravir Mishra
 GitHub: @Pravir2004
